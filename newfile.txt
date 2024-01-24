@@ -1,0 +1,10 @@
+1번째 줄 데이터는 (int)math.pow(2,1) 입니다.
+2번째 줄 데이터는 (int)math.pow(2,2) 입니다.
+3번째 줄 데이터는 (int)math.pow(2,3) 입니다.
+4번째 줄 데이터는 (int)math.pow(2,4) 입니다.
+5번째 줄 데이터는 (int)math.pow(2,5) 입니다.
+6번째 줄 데이터는 (int)math.pow(2,6) 입니다.
+7번째 줄 데이터는 (int)math.pow(2,7) 입니다.
+8번째 줄 데이터는 (int)math.pow(2,8) 입니다.
+9번째 줄 데이터는 (int)math.pow(2,9) 입니다.
+10번째 줄 데이터는 (int)math.pow(2,10) 입니다.
